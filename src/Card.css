@@ -1,0 +1,61 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Passion+One:wght@700&display=swap');
+
+
+.card-container {
+    background-color: #398AB9;
+    max-width: 400px;
+    min-height: 600px;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 100px;
+    border-radius: 10px;
+}
+
+.card-wrapper {
+    background-color: #fff;
+    min-width: 350px;
+    max-height: 650px;
+    margin: 20px;
+}
+
+.card-img {
+    position: relative;
+    max-width: 100%;
+    margin-bottom: 0px;
+    background-color: #398AB9;
+    border-bottom: 2px solid #398AB9;
+}
+
+.party-div {   
+    text-align: center;
+    letter-spacing: 2px;
+    border-bottom: 2px solid #398AB9;
+}
+
+.party-div h3 {
+    margin: 0px;
+    font-family: 'Passion One', cursive;
+    color: #398AB9;
+}
+
+.political-btns {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: #398AB9;
+}
+
+.political-btns h4 {
+    margin: 0px;
+    color: #fff;
+    cursor: pointer;
+    padding: 2px;
+    padding-bottom: 6px;
+}
+
+.political-btns h4:hover {
+    color: #F9D371;
+}
+

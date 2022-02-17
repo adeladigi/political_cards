@@ -1,0 +1,33 @@
+
+
+h3 {
+    margin: 0px;
+    font-family: 'Passion One', cursive;
+}
+
+.arrove-group-list p{
+    font-size: 15px;
+    font-family: 'Passion One', cursive;
+    max-height: 5px;
+    margin: 9px;
+}
+
+#v-f{
+    color: #50CB93;
+}
+
+#s-f {
+    color: #71EFA3;
+}
+
+#s-u {
+    color: #ED8E7C;
+}
+
+#v-u {
+    color: #D54C4C;
+}
+
+#d-k {
+    color: #DDDDDD;
+}

@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Overpass&display=swap');
+
+
+::-webkit-scrollbar {
+    width: 7px;
+}
+
+::-webkit-scrollbar-track {
+    background-color: #fff;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #398AB9;
+    border-radius: 25px;
+}
+
+
+
+
+.position-div-wrapper {
+    display: flex;
+    flex-direction: column;
+}
+
+.position-div-title {
+    text-align: center;
+    border-bottom: 5px solid #398AB9;
+}
+
+.position-div-title h3 {
+    margin: 5px;
+}
+
+.position-div-list {
+    display: flex;
+    flex-direction: row;
+}
+
+.position-inner-div {
+    width: 100%;
+    text-align: center;
+
+}
+
+.position-inner-div h5 {
+    margin: 14.7px;
+    font-family: 'Passion One', cursive;
+    font-size: 17px;
+    cursor: pointer;
+}
+
+.position-inner-div h5:hover {
+    color: #F9D371;
+}
+
+.position-content-title {
+    font-family: 'Passion One', cursive;
+    display: flex;
+    justify-content: center;
+}
+
+.position-content-title h2 {
+   margin-top: 5px;
+   margin-bottom: 0px;
+}
+
+.position-content-text {
+   margin-top: 2px;
+   overflow:scroll;
+   overflow-x: hidden;
+   max-height: 270px;
+}
+
+.position-content-text p {
+    font-family: 'Overpass', sans-serif;
+    letter-spacing: 2px;
+    margin: 10px;
+}

@@ -1,0 +1,8 @@
+
+
+.pie-chart-div {
+    max-width: 100px;
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+}

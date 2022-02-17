@@ -1,0 +1,20 @@
+
+
+
+.doughnut-div {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 20px;
+    font-family: 'Passion One', cursive;
+}
+
+.number-display-div {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.number-display-div h1{
+    margin: 0px;
+}
